@@ -44,9 +44,9 @@
 ---
 
 ## 📌 Featured Projects
-✔ CodeStrom-Challenge
-✔ Cario-AI
-✔ Enhancing-Visual-Accessibility-Using-GANs 
+- ✔ CodeStrom-Challenge
+- ✔ Cario-AI
+- ✔ Enhancing-Visual-Accessibility-Using-GANs 
 
 ---
 
