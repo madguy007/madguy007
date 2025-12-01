@@ -44,9 +44,9 @@
 ---
 
 ## 📌 Featured Projects
-- **CarioAI** – AI Job Assistant  
-- **FoloUp** – AI-powered interview assistant  
-- Python Data Cleaning & Automation Projects  
+✔ CodeStrom-Challenge
+✔ Cario-AI
+✔ Enhancing-Visual-Accessibility-Using-GANs 
 
 ---
 
